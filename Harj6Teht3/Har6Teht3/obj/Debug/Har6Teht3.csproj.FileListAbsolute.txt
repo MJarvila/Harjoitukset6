@@ -1,0 +1,7 @@
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset6\Har6Teht3\bin\Debug\Har6Teht3.exe.config
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset6\Har6Teht3\bin\Debug\Har6Teht3.exe
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset6\Har6Teht3\bin\Debug\Har6Teht3.pdb
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset6\Har6Teht3\obj\Debug\Har6Teht3.csproj.CoreCompileInputs.cache
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset6\Har6Teht3\obj\Debug\Har6Teht3.exe
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset6\Har6Teht3\obj\Debug\Har6Teht3.pdb
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset6\Har6Teht3\obj\Debug\Har6Teht3.csprojResolveAssemblyReference.cache
